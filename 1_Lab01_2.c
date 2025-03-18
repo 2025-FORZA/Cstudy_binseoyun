@@ -1,5 +1,5 @@
 // 1_Lab01_2
-//백준 문제 1000번 A+B
+//백준 1000번 A+B
 #include <stdio.h>
 int main() {
 	int a, b;
