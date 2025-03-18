@@ -1,5 +1,5 @@
 // 1_Lab01_2
-//¹éÁØ 1000¹ø A+B
+//ë°±ì¤€ ë¬¸ì œ 1000ë²ˆ A+B
 #include <stdio.h>
 int main() {
 	int a, b;
