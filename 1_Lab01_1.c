@@ -1,5 +1,5 @@
 // 1_Lab01_1
-//¹éÁØ 2557¹ø Hello World
+//ë°±ì¤€ 2557ë²ˆ Hello World
 #include<stdio.h>
 int main() {
 	printf("Hello World!");
